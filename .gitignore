@@ -2,6 +2,7 @@
 *.log
 *.pot
 *.pyc
+manage.py
 __pycache__
 media
 .env
